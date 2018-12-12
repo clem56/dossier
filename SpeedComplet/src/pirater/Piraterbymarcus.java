@@ -8,4 +8,11 @@ public class Piraterbymarcus {
 		return super.clone();
 	}
 
+	public Piraterbymarcus() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	
+	
 }
