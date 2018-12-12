@@ -13,11 +13,11 @@ public class Piraterbymarcus {
 		// TODO Auto-generated constructor stub
 	}
 
-	
-	
-	public Piraterbymarcus() {
-		super();
-		// TODO Auto-generated constructor stub
+
+	@Override
+	public String toString() {
+		return "Piraterbymarcus [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()="
+				+ super.toString() + "]";
 	}
 	
 	
