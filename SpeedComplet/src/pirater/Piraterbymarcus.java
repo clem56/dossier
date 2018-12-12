@@ -15,4 +15,10 @@ public class Piraterbymarcus {
 
 	
 	
+	public Piraterbymarcus() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+	
 }
